@@ -7,6 +7,6 @@ where all my passwords are located, i wanted this in java, but i did not think t
 i want the website to be opened with java, i did research but nothing was to my liking other than robot, i didnt want to use robot i already knew about it but
 just seems like a cheat out.
 
-ill host the website on another github account.
-i wont actiually use it, so i will just link it below -
+ill host the website on another github account.(turns out github doesnt allow htacces and htpasswd and doesnt allow server code so i will use 000webhost.)
+i wont actiually use it, so i will just link it below-
 
