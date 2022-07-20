@@ -8,5 +8,5 @@ i want the website to be opened with java, i did research but nothing was to my 
 just seems like a cheat out.
 
 ill host the website on another github account.(turns out github doesnt allow htacces and htpasswd and doesnt allow server code so i will use 000webhost.)
-i wont actiually use it, so i will just link it below-
+i made the website with 000webhost but after the popup of htacces and htpasswd the website crashed somehow and didnt work again, so ill leave it at that.
 
