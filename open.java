@@ -37,6 +37,9 @@ public class open {
         r.keyPress(KeyEvent.VK_A);
         r.keyRelease(KeyEvent.VK_A);
         Thread.sleep(500);
+        r.keyPress(KeyEvent.VK_A);
+        r.keyRelease(KeyEvent.VK_A);
+        Thread.sleep(500);
         r.keyPress(KeyEvent.VK_M);
         r.keyRelease(KeyEvent.VK_M);
         Thread.sleep(500);
